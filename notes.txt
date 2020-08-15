@@ -1,0 +1,4 @@
+Next: fix to where you can choose another option after finishing another
+      option after finishing the first operation. A while loop might work.
+
+Next: Set up github to follow progress and easily revert changes if need be.
